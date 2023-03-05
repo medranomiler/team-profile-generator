@@ -13,8 +13,7 @@ A team profile generator made with JS and node.js using inquirer
 
 
 ## General Info
-This challenge was to create a team profile generator based on prompts using inquirer that the user inputs and then would generate an HTML file based on the user's inputs.
-
+This challenge was to create a team profile generator using inquirer prompts.
 ## Software Used 
 
 - Node.js
@@ -24,12 +23,6 @@ This challenge was to create a team profile generator based on prompts using inq
 - Jest 
 
 ## Screen Shots
-
-![image](https://user-images.githubusercontent.com/63430373/216197282-1f318685-4dad-4bd5-ac61-9cc71248a0a4.png)
-
-<p align="center">
-  <img src="https://i.imgur.com/TIGQcMm.gif" />
-</p>
 
 ## Setup
 
@@ -44,7 +37,4 @@ node index.js - to start the user prompt
 
 ## Contributors
 
-- MJ
-- UTA Study group sessions for help on tests and initial file creation
-- Bootstrap documentation
-- Various youtube tutorials on profile generation based on inquirer prompts
+-Connor Bodin
