@@ -8,7 +8,7 @@ A team profile generator made with JS and node.js using inquirer
 * [General info](#general-info)
 * [Software Used](#software-used)
 * [Setup](#setup)
-* [Screen Shots/gifs](#screen-shots)
+* [Demo Video](#demo-video)
 * [Contributors](#contributors)
 
 
@@ -22,7 +22,8 @@ This challenge was to create a team profile generator using inquirer prompts.
 - Javascript
 - Jest 
 
-## Screen Shots
+## Demo Video
+https://drive.google.com/file/d/1utBV2JO5MmzQ-kRO5BG3H8r8Jc192Em5/view
 
 ## Setup
 

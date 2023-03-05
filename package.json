@@ -1,5 +1,5 @@
 {
-  "name": "uta-bootcamp-team-profile-generator",
+  "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connorbodin/UTA-Bootcamp-Team-Profile-Generator.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/connorbodin/UTA-Bootcamp-Team-Profile-Generator/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/connorbodin/UTA-Bootcamp-Team-Profile-Generator#readme",
+  "homepage": "",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.4.1"
